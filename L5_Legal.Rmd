@@ -1,0 +1,9 @@
+---
+title: "Copyright, Open Licensing and Open Science"
+---
+
+# Lecturer: Till Kreutzer
+
+## Abstract
+
+Open licensing is the legal foundation of every „Open“ (as in „Open Science“) scheme. It is a tool to simplify copyright and to reduce over-restrictive copyright protection. Even though the legal issues in open licensing are much less complex than interpreting copyright law, they are often challenging especially for practitioners who are not lawyers. The talk will address various aspects of copyright and open licensing with special regard to Open Science.

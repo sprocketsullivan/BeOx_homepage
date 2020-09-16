@@ -1,0 +1,9 @@
+---
+title: "How bias leads to entrenched errors"
+---
+
+# Lecturer: Dorothy V M Bishop
+
+## Abstract
+
+Scientific progress is derailed by two human failings: a desire for positive findings, which leads to publication bias, and a tendency to notice and remember things that agree with our current viewpoint, which affects how we cite prior literature. Either one of these alone is damaging; combined they form a toxic combination that means that many 'established facts' in a field are not trustworthy.  I will give examples of these processes and discuss how we might overcome them. 

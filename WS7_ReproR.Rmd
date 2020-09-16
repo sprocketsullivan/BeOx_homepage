@@ -1,0 +1,8 @@
+---
+title: "Reproducible Research with R"
+---
+
+# Lecturer: Ulf Toelch
+
+## Course Content
+

@@ -1,0 +1,9 @@
+---
+title: "Replications and Open Sciences in Sociology and Political Sciences"
+---
+
+# Lecturer: Johanna Gereke
+
+## Abstract
+
+The “replication crisis” has not only hit psychology and economics, but scholars in sociology and political science have also recognized the lack of reproducibility and transparency in empirical social science research in recent years. In response, several current initiatives aim to assess the reproducibility of main findings in the literature. Also, professional standards regarding open science and reproducibility are changing (although arguably slowly), including teaching the new generation of social scientists best practices. We will cover these developments and learn how empirical sociology and political science research is becoming more transparent.
