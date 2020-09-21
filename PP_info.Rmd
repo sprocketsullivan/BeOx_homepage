@@ -1,0 +1,22 @@
+---
+title: "Participant info"
+---
+
+```{r,echo=FALSE,message=FALSE}
+library(knitr)
+library(tidyverse)
+library(kableExtra)
+participants<-read.csv("results-survey983769.csv",encoding = "UTF-8",sep=";")
+participants<-
+  participants %>% 
+  filter(G0001!="") %>% 
+  select(G0001,G0001a,G0002,G0003,G0004,G0007) %>% 
+  mutate(G0001a=str_sub(G0001a,start=1,end=1))
+```
+```{r,echo=F}
+kable(participants) %>% 
+  kable_styling(c("striped", "bordered"))
+  
+```
+
+

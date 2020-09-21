@@ -1,8 +1,18 @@
 ---
-title: "Planning publication and dissemination"
+title: "Planning your publication and dissemination"
 ---
 
 # Lecturer: Jen de Beyer and Patricia Logullo
 
 ## Course Content
+
+You can share just about every step of your work through publication and dissemination. By choosing where and how you share, you can maximise openness and reproducibility. The best strategy is to plan your sharing as early in the research process as possible.
+By the end of this workshop, you will have identified the publication and dissemination strategies that suit you and your project.  
+We will cover  
+
+* Identifying your message and audience  
+* Sharing every part of your research to maximise openness, from protocols and methods papers to registered reports and traditional journal articles, and many others  
+* Barriers to reproducibility and openness, such as spin, selective reporting, paywalls, and predatory journals, and how to avoid them  
+* Tools to ensure reproducibility, such as reporting guidelines and Think Check Submit  
+* Sharing your message beyond academia  
 

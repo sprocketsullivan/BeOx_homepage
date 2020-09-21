@@ -1,8 +1,9 @@
 ---
-title: "Open Publishing"
+title: "Practical Semantics: Open Access, Open Scholarship, and everything in-between"
 ---
 
 # Lecturer: Ruth Mallalieu
 
 ## Abstract
 
+Why is some research publicly available to anybody to read and reuse, and why is some behind a paywall? At the heart of this question is how research is created, and funded and, ultimately, what its purpose is. This talk will discuss the changing landscape of open access publishing, how this fits within the broader context of open scholarship practices, and how the University of Oxford advises and assists its researchers on all of this.

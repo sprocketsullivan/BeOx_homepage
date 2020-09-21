@@ -6,3 +6,6 @@ title: "Visualisation"
 
 ## Course Content
 
+Topics that I plan to cover include common visualization errors in small sample size studies (bar graphs of continuous data, creating flow charts to track inclusion/exclusion, color blind accessible visualizations, using semi-transparency), creating effective image-based figures (microscopy, electron microscopy, photographs, etc.), planning multi panel figures, and general techniques for using visualization to enhance scientific communication. If I can contact participants in advance, I typically invite people to anonymously submit visualizations that we can critique as a class. 
+
+I will not address visualizations for big data, so attendees looking for this type of information might prefer to take another course.
