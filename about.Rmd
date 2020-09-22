@@ -15,8 +15,8 @@ kable(program) %>%
   kable_styling(c("striped", "bordered"),full_width=F) %>% 
   pack_rows("Lectures", 1, 5) %>%
   pack_rows("Parallel Workshops", 7,12 ) %>%
-  pack_rows("Keynote Lecture", 13, 13) %>% 
-  column_spec(c(2,3),background="lightblue") #%>% 
+  pack_rows("Keynote Lecture", 13, 13) #%>% 
+  #column_spec(c(2,3),background="lightblue") %>% 
   #column_spec(c(4,5),background="yellow") %>%
   #column_spec(c(6,7),background="lightblue") %>%
   #column_spec(c(8,9),background="yellow")

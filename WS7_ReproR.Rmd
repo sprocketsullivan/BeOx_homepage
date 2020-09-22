@@ -6,3 +6,4 @@ title: "Reproducible Research with R"
 
 ## Course Content
 
+In this workshop, we will learn how to make the raw data to figure process transparent. I will introduce repositories for data and code. If time allows, we will also create our own reproducible document in several environments that encapsulate the computational processes. 

@@ -6,3 +6,4 @@ title: "Spread the message - ECR community building"
 
 ## Course Content
 
+In this interactive workshop we will explore how early career researchers can get involved not only in making their own research open and reproducible but also in spreading the message. I will give an overview of community building and training activities run by ECRs for ECRs that I and others have been involved in and will share some experiences. The workshop is for anyone, for participants who are already running activities at their own institutions and would like to share their experiences and for participants who have only just become interested in getting engaged and would like some tips on how to approach it. 

@@ -2,5 +2,7 @@
 title: "Berlin|Oxford Summerschool 2020"
 ---
 
-Welcome to the website of the 3rd edition of the Berlin|Oxford summer school on Open Research, the 1st edition to be held entirely online from 28 September - 1 October 2020. It is a course for early career researchers (PhD students and postdocs) who would like to learn more about how to make their research reproducible, replicable and open. The course is organised by researchers from the QUEST Center for Transforming Biomedical Research, Berlin Institute of Health and Reproducible Research Oxford, University of Oxford, in collaboration with Freie Universität Berlin, Charité University Hospital and the Bodleian Libraries Oxford.
-On this website you can find some useful information on our programme, video recordings of our lectures and workshop materials. You can get in touch with the summer school organisers via email here: summerschool_berlinoxford@bihealth.de.
+Welcome to the website of the 3rd edition of the Berlin|Oxford summer school on Open Research, the 1st edition to be held entirely online from 28 September - 1 October 2020. It is a course for early career researchers (PhD students and postdocs) who would like to learn more about how to make their research reproducible, replicable and open. The course is organised by researchers from the QUEST Center for Transforming Biomedical Research, Berlin Institute of Health and Reproducible Research Oxford, University of Oxford, in collaboration with Freie Universität Berlin, Charité University Hospital and the Bodleian Libraries Oxford. The school is generously fudned by the Berlin University Alliance.
+On this website you can find some useful information on our programme, video recordings of our lectures and workshop materials. You can get in touch with the summer school organisers via email here: summerschool_berlinoxford@bihealth.de.  
+
+You can find uploaded talks and additional material in our [OSF repository](https://osf.io/9qy6s/).
